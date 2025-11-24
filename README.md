@@ -1,6 +1,7 @@
 VNS Banking (Django Application)
 This is a VNS Banking application developed using Django, an open-source Python-based web framework.
-Installation and Setup
+ Unzip the folder above the file then next follow the Installation and Setup
+
 1. First, ensure Python is installed by checking the version in your terminal: python --version (or python3 --version).
 2. Install Django using PIP: pip install Django.
 3. Start a new Django project: django-admin startproject <project_name>.
